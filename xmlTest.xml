@@ -53,23 +53,6 @@
 	<schedule>
 		<instance>
 			<key>
-				<![CDATA[4cdce5f05525e699206ef2c108d2efeb1b99598e]]>
-			</key>
-			<title>
-				<![CDATA[WDRB in the Morning 7 AM]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-01-26 13:20]]>
-			</begin>
-			<end>
-				<![CDATA[2023-01-26 13:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
 				<![CDATA[e9973576a0b087d005d0409f51c827e1d905d818]]>
 			</key>
 			<title>
