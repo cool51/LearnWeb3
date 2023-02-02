@@ -51,23 +51,6 @@
 	<schedule>
 		<instance>
 			<key>
-				<![CDATA[fb2fbacaba9d659c126ba6a02aae29e899a5b60d]]>
-			</key>
-			<title>
-				<![CDATA[WDRB in the Morning 6 AM]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-02 9:30]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-02 11:10]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
 				<![CDATA[4cdce5f05525e699206ef2c108d2efeb1b99598e]]>
 			</key>
 			<title>
@@ -77,7 +60,7 @@
 				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-02 11:59]]>
+				<![CDATA[2023-02-02 11:25]]>
 			</begin>
 			<end>
 				<![CDATA[2023-02-02 12:58]]>
