@@ -34,13 +34,13 @@
 	</category>
 	<thumbnail_image>
 		<title>
-			<![CDATA[WDRB in the Morning 5 AM]]>
+			<![CDATA[WDRB News at 10 and 11]]>
 		</title>
 		<url>
-			<![CDATA[https://cdn.field59.com/WDRB/deedc5e8c8f6df64834f1ba24f1012ae4a990c61_news_am_custom.png]]>
+			<![CDATA[https://cdn.field59.com/WDRB/8ea8b44cfd52babffb9234b35d01b07dc9dde070_news_10_11_custom.png]]>
 		</url>
 		<alt>
-			<![CDATA[WDRB in the Morning 5 AM]]>
+			<![CDATA[WDRB News at 10 and 11]]>
 		</alt>
 	</thumbnail_image>
 	<tags>
@@ -49,125 +49,6 @@
 		</tag>
 	</tags>
 	<schedule>
-		<instance>
-			<key>
-				<![CDATA[fb2fbacaba9d659c126ba6a02aae29e899a5b60d]]>
-			</key>
-			<title>
-				<![CDATA[WDRB in the Morning 6 AM]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 10:25]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 11:57]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4cdce5f05525e699206ef2c108d2efeb1b99598e]]>
-			</key>
-			<title>
-				<![CDATA[WDRB in the Morning 7 AM]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 11:59]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 12:58]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[e9973576a0b087d005d0409f51c827e1d905d818]]>
-			</key>
-			<title>
-				<![CDATA[WDRB in the Morning 8 AM]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 13:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 13:58]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[1821a830a562da120acf5791663d470e42edf3e0]]>
-			</key>
-			<title>
-				<![CDATA[WDRB News at 11:30 and Noon]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 16:30]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 17:31]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[cff92466143391a87d1efcebe678511680f480a0]]>
-			</key>
-			<title>
-				<![CDATA[WDRB News at 4 and 4:30]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 21:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 21:58]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[3712b205bb9c416335d9ba7ee8ae1d5c48855887]]>
-			</key>
-			<title>
-				<![CDATA[WDRB News at 5]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 22:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 22:58]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[1ee40c98efdcccf2335116f30112095462977c44]]>
-			</key>
-			<title>
-				<![CDATA[WDRB News at 6 and 6:30]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-01 23:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-01 23:59]]>
-			</end>
-		</instance>
 		<instance>
 			<key>
 				<![CDATA[27d8fccd1b7fb20da946943fafc764e8fc0c9ec7]]>
@@ -183,6 +64,142 @@
 			</begin>
 			<end>
 				<![CDATA[2023-02-02 04:31]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[66977f976615cc59c7c8aa011f5cf55c71957083]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 5 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 9:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 9:22]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[fb2fbacaba9d659c126ba6a02aae29e899a5b60d]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 6 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 11:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 11:57]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[4cdce5f05525e699206ef2c108d2efeb1b99598e]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 7 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 11:59]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 12:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[e9973576a0b087d005d0409f51c827e1d905d818]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 8 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 13:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 13:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[1821a830a562da120acf5791663d470e42edf3e0]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 11:30 and Noon]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 16:30]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 17:31]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[cff92466143391a87d1efcebe678511680f480a0]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 4 and 4:30]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 21:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 21:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[3712b205bb9c416335d9ba7ee8ae1d5c48855887]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 5]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 22:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 22:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[1ee40c98efdcccf2335116f30112095462977c44]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 6 and 6:30]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-02 23:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-02 23:59]]>
 			</end>
 		</instance>
 	</schedule>
