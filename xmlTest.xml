@@ -1,6 +1,7 @@
 
 
 <?xml version="1.0"?>
+<?xml version="1.0"?>
 <channel>
 	<timeZone>
 		<![CDATA[UTC]]>
@@ -34,13 +35,13 @@
 	</category>
 	<thumbnail_image>
 		<title>
-			<![CDATA[WDRB in the Morning 5 AM]]>
+			<![CDATA[WDRB News at 11:30 and Noon]]>
 		</title>
 		<url>
-			<![CDATA[https://cdn.field59.com/WDRB/deedc5e8c8f6df64834f1ba24f1012ae4a990c61_news_am_custom.png]]>
+			<![CDATA[https://cdn.field59.com/WDRB/b8c7ce9a5f1369af418d78ef124af4fb5034129a_news_1130_12_custom.png]]>
 		</url>
 		<alt>
-			<![CDATA[WDRB in the Morning 5 AM]]>
+			<![CDATA[WDRB News at 11:30 and Noon]]>
 		</alt>
 	</thumbnail_image>
 	<tags>
@@ -49,6 +50,40 @@
 		</tag>
 	</tags>
 	<schedule>
+		<instance>
+			<key>
+				<![CDATA[1821a830a562da120acf5791663d470e42edf3e0]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 11:30 and Noon]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-07 16:30]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-07 17:00]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[cff92466143391a87d1efcebe678511680f480a0]]>
+			</key>
+			<title>
+				<![CDATA[WDRB News at 4 and 4:30]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-07 17:20]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-07 17:35]]>
+			</end>
+		</instance>
 		<instance>
 			<key>
 				<![CDATA[3712b205bb9c416335d9ba7ee8ae1d5c48855887]]>
@@ -60,10 +95,10 @@
 				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-07 22:00]]>
+				<![CDATA[2023-02-07 17:45]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-07 22:58]]>
+				<![CDATA[2023-02-07 17:50]]>
 			</end>
 		</instance>
 		<instance>
@@ -77,10 +112,10 @@
 				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-07 23:00]]>
+				<![CDATA[2023-02-07 18:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-07 23:59]]>
+				<![CDATA[2023-02-07 19:00]]>
 			</end>
 		</instance>
 		<instance>
@@ -98,6 +133,74 @@
 			</begin>
 			<end>
 				<![CDATA[2023-02-08 04:31]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[66977f976615cc59c7c8aa011f5cf55c71957083]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 5 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-08 10:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-08 10:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[fb2fbacaba9d659c126ba6a02aae29e899a5b60d]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 6 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-08 11:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-08 11:57]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[4cdce5f05525e699206ef2c108d2efeb1b99598e]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 7 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-08 11:59]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-08 12:58]]>
+			</end>
+		</instance>
+		<instance>
+			<key>
+				<![CDATA[e9973576a0b087d005d0409f51c827e1d905d818]]>
+			</key>
+			<title>
+				<![CDATA[WDRB in the Morning 8 AM]]>
+			</title>
+			<url>
+				<![CDATA[https://ssai.field59.com/v1/master/1cc9f8e414fe9ccd276e8b5ab902d155c77e3d4a/wdrb2/wdrb2.m3u8]]>
+			</url>
+			<begin>
+				<![CDATA[2023-02-08 13:00]]>
+			</begin>
+			<end>
+				<![CDATA[2023-02-08 13:58]]>
 			</end>
 		</instance>
 	</schedule>
