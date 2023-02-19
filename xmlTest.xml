@@ -32,135 +32,39 @@
 	<category>
 		<![CDATA[]]>
 	</category>
-	<thumbnail_image>
-		<title>
-			<![CDATA[WBOC Morning News]]>
-		</title>
-		<url>
-			<![CDATA[//cdn.field59.com/ECHO/wboc2.png]]>
-		</url>
-		<alt>
-			<![CDATA[WBOC Morning News]]>
-		</alt>
-	</thumbnail_image>
 	<schedule>
 		<instance>
 			<key>
-				<![CDATA[b7d2a1f382885100c58935d1814a77b5902cb5f9]]>
+				<![CDATA[71438f9e86539144dcce9ff04627232d08892c7d]]>
 			</key>
 			<title>
-				<![CDATA[WBOC Morning News]]>
+				<![CDATA[WBOC Sunday Morning News]]>
 			</title>
 			<url>
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-15 10:00]]>
+				<![CDATA[2023-02-19 8:30]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-15 12:00]]>
+				<![CDATA[2023-02-19 8:50]]>
 			</end>
 		</instance>
 		<instance>
 			<key>
-				<![CDATA[b764854243fd14cef01645bb1deadad4f8f8f6c0]]>
+				<![CDATA[237cebbc807cffcdce3333f87e95ba2c0c07b433]]>
 			</key>
 			<title>
-				<![CDATA[WBOC Noon News]]>
+				<![CDATA[Fox21 News at 10pm]]>
 			</title>
 			<url>
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-15 13:00]]>
+				<![CDATA[2023-02-19 9:30]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-15 13:20]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[e26ea5a6b081101892f3fd8a1d1f79d459220517]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 4]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-15 13:50]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-15 14:10]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d23d86cd1df138a967f88c595e0b1f46df5e561]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 5]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-15 15:10]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-15 15:40 ]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d5e4e3402c9290290a7c4ab6ea3aa39514fab09]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 6]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-15 23:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-15 23:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[55d243026c9b440000aed3412c09a35480a01909]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 7]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-16 00:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-16 00:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[eff92d98a5d15ed0c0ea70fb6449be1b71fdfb77]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 10]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-16 03:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-16 03:30]]>
+				<![CDATA[2023-02-19 9:40]]>
 			</end>
 		</instance>
 		<instance>
@@ -174,10 +78,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-16 7:33]]>
+				<![CDATA[2023-02-20 10:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-16 7:35]]>
+				<![CDATA[2023-02-20 12:00]]>
 			</end>
 		</instance>
 		<instance>
@@ -191,10 +95,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-16 8:17]]>
+				<![CDATA[2023-02-20 17:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-16 8:20]]>
+				<![CDATA[2023-02-20 17:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -208,10 +112,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-16 8:27]]>
+				<![CDATA[2023-02-20 21:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-16 8:31]]>
+				<![CDATA[2023-02-20 21:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -225,10 +129,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-16 11:05]]>
+				<![CDATA[2023-02-20 22:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-16 11:7]]>
+				<![CDATA[2023-02-20 22:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -242,10 +146,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-16 11:15]]>
+				<![CDATA[2023-02-20 23:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-16 11:20]]>
+				<![CDATA[2023-02-20 23:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -259,10 +163,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 00:00]]>
+				<![CDATA[2023-02-21 00:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 00:30]]>
+				<![CDATA[2023-02-21 00:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -276,10 +180,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 03:00]]>
+				<![CDATA[2023-02-21 03:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 03:30]]>
+				<![CDATA[2023-02-21 03:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -293,10 +197,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 10:00]]>
+				<![CDATA[2023-02-21 10:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 12:00]]>
+				<![CDATA[2023-02-21 12:00]]>
 			</end>
 		</instance>
 		<instance>
@@ -310,10 +214,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 17:00]]>
+				<![CDATA[2023-02-21 17:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 17:30]]>
+				<![CDATA[2023-02-21 17:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -327,10 +231,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 21:00]]>
+				<![CDATA[2023-02-21 21:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 21:30]]>
+				<![CDATA[2023-02-21 21:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -344,10 +248,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 22:00]]>
+				<![CDATA[2023-02-21 22:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 22:30]]>
+				<![CDATA[2023-02-21 22:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -361,10 +265,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-17 23:00]]>
+				<![CDATA[2023-02-21 23:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-17 23:30]]>
+				<![CDATA[2023-02-21 23:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -378,10 +282,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-18 00:00]]>
+				<![CDATA[2023-02-22 00:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-18 00:30]]>
+				<![CDATA[2023-02-22 00:30]]>
 			</end>
 		</instance>
 		<instance>
@@ -395,10 +299,10 @@
 				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-18 03:00]]>
+				<![CDATA[2023-02-22 03:00]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-18 03:30]]>
+				<![CDATA[2023-02-22 03:30]]>
 			</end>
 		</instance>
 	</schedule>
