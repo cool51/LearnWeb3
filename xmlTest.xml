@@ -6,25 +6,25 @@
 		<![CDATA[UTC]]>
 	</timeZone>
 	<key>
-		<![CDATA[e549171a9f990d40585e77e8ff55eff3e93d7740]]>
+		<![CDATA[263fe873cfc980327633a50844a390828623cd01]]>
 	</key>
 	<stream>
-		<![CDATA[wboc2 ssai]]>
+		<![CDATA[wvua1]]>
 	</stream>
 	<title>
-		<![CDATA[WBOC2 SSAI]]>
+		<![CDATA[WVUA Newscast Replay Schedule]]>
 	</title>
 	<account>
-		<![CDATA[ECHO]]>
+		<![CDATA[WVUA]]>
 	</account>
 	<description>
 		<![CDATA[]]>
 	</description>
 	<create_date>
-		<![CDATA[2017-04-19 18:05]]>
+		<![CDATA[2023-02-16 17:10]]>
 	</create_date>
 	<last_update>
-		<![CDATA[2023-02-06 21:39]]>
+		<![CDATA[2023-08-16 20:04]]>
 	</last_update>
 	<deleted>
 		<![CDATA[]]>
@@ -32,277 +32,72 @@
 	<category>
 		<![CDATA[]]>
 	</category>
+	<thumbnail_image>
+		<title>
+			<![CDATA[WVUA 23 News]]>
+		</title>
+		<url>
+			<![CDATA[https://cdn.field59.com/WVUA/dca3096c57e9e2a71dd7514da998453c76dad13d_WVUA_23_News___5pm__1__custom.jpg]]>
+		</url>
+		<alt>
+			<![CDATA[WVUA 23 News]]>
+		</alt>
+	</thumbnail_image>
+	<tags>
+		<tag>
+			<![CDATA[live]]>
+		</tag>
+	</tags>
 	<schedule>
 		<instance>
 			<key>
-				<![CDATA[71438f9e86539144dcce9ff04627232d08892c7d]]>
+				<![CDATA[011b845a2e2eb79fd16474dec69e1738afdca39d]]>
 			</key>
 			<title>
-				<![CDATA[WBOC Sunday Morning News]]>
+				<![CDATA[WVUA 23 News]]>
 			</title>
 			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
+				<![CDATA[https://live.field59.com/wvua/wvua1/playlist.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-19 8:38]]>
+				<![CDATA[2023-08-21 11:40]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-19 8:40]]>
+				<![CDATA[2023-08-21 11:42]]>
 			</end>
 		</instance>
 		<instance>
 			<key>
-				<![CDATA[237cebbc807cffcdce3333f87e95ba2c0c07b433]]>
+				<![CDATA[011b845a2e2eb79fd16474dec69e1738afdca39d]]>
 			</key>
 			<title>
-				<![CDATA[Fox21 News at 10pm]]>
+				<![CDATA[WVUA 23 News]]>
 			</title>
 			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
+				<![CDATA[https://live.field59.com/wvua/wvua1/playlist.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-19 10:05]]>
+				<![CDATA[2023-08-22 21:59]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-19 10:15]]>
+				<![CDATA[2023-08-22 22:32]]>
 			</end>
 		</instance>
 		<instance>
 			<key>
-				<![CDATA[b7d2a1f382885100c58935d1814a77b5902cb5f9]]>
+				<![CDATA[55f78703da4676265dcb0ed0d6f91a294c2c13db]]>
 			</key>
 			<title>
-				<![CDATA[WBOC Morning News]]>
+				<![CDATA[Tider Insider]]>
 			</title>
 			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
+				<![CDATA[https://live.field59.com/wvua/wvua1/playlist.m3u8]]>
 			</url>
 			<begin>
-				<![CDATA[2023-02-19 14:30]]>
+				<![CDATA[2023-08-22 23:32]]>
 			</begin>
 			<end>
-				<![CDATA[2023-02-19 14:42]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[b764854243fd14cef01645bb1deadad4f8f8f6c0]]>
-			</key>
-			<title>
-				<![CDATA[WBOC Noon News]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-20 17:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-20 17:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[e26ea5a6b081101892f3fd8a1d1f79d459220517]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 4]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-20 21:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-20 21:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d23d86cd1df138a967f88c595e0b1f46df5e561]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 5]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-20 22:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-20 22:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d5e4e3402c9290290a7c4ab6ea3aa39514fab09]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 6]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-20 23:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-20 23:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[55d243026c9b440000aed3412c09a35480a01909]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 7]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 00:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 00:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[eff92d98a5d15ed0c0ea70fb6449be1b71fdfb77]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 10]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 03:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 03:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[b7d2a1f382885100c58935d1814a77b5902cb5f9]]>
-			</key>
-			<title>
-				<![CDATA[WBOC Morning News]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 10:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 12:00]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[b764854243fd14cef01645bb1deadad4f8f8f6c0]]>
-			</key>
-			<title>
-				<![CDATA[WBOC Noon News]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 17:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 17:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[e26ea5a6b081101892f3fd8a1d1f79d459220517]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 4]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 21:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 21:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d23d86cd1df138a967f88c595e0b1f46df5e561]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 5]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 22:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 22:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[4d5e4e3402c9290290a7c4ab6ea3aa39514fab09]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 6]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-21 23:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-21 23:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[55d243026c9b440000aed3412c09a35480a01909]]>
-			</key>
-			<title>
-				<![CDATA[WBOC News at 7]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-22 00:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-22 00:30]]>
-			</end>
-		</instance>
-		<instance>
-			<key>
-				<![CDATA[eff92d98a5d15ed0c0ea70fb6449be1b71fdfb77]]>
-			</key>
-			<title>
-				<![CDATA[Fox21 News at 10]]>
-			</title>
-			<url>
-				<![CDATA[https://ssai.field59.com/wboc2.m3u8]]>
-			</url>
-			<begin>
-				<![CDATA[2023-02-22 03:00]]>
-			</begin>
-			<end>
-				<![CDATA[2023-02-22 03:30]]>
+				<![CDATA[2023-08-23 00:01]]>
 			</end>
 		</instance>
 	</schedule>
