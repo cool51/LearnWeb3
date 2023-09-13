@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
+	<Ad id="0">
+		<Wrapper>
+			<AdSystem version="1.0.0">
+				<![CDATA[Torrential]]>
+			</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://mkcf.dxmcdn.com/Campaign16180CreativeSet25313DistributorId3templateId138337557047vast.xml]]>
+			</VASTAdTagURI>
+
+			<Impression id="Impression">
+				<![CDATA[https://secure-gl.imrworldwide-wrapper1.com/cgi-bin/m?ci=nlsnci750&am=3&ep=1&at=view&rt=banner&st=image&ca=cmp3557681&cr=creative&pc=plc90243749&ce=torrential&cy=2&c9=devid,0&c13=asid,PF9C79E59-8546-B85D-E040-070AAD317186&r=1628775433388]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=Impression&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://m2.torrenti-wrapper1.al/track/t?e=Impression&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+			</Impression>
+			<Impression id="Impression">
+				<![CDATA[https://secure-gl-wrapper1.imrworldwide.com/cgi-bin/m?ca=nlsn289580&cr=crtve&ce=torrential&pc=47961&ci=nlsnci889&am=3&at=view&rt=banner&st=image&r=1628775433388]]>
+			</Impression>
+			<Creatives>
+				<Creative sequence="1" id="9864">
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="creativeView">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=creativeView&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="start">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=start&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=midpoint&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=firstQuartile&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=thirdQuartile&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=complete&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="mute">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=mute&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="unmute">
+								<![CDATA[https://m1.torrenti-wrapper1.al/track/t?e=unmute&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="pause">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=pause&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="rewind">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=rewind&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="resume">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=resume&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="fullscreen">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=fullscreen&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="expand">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=expand&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="collapse">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=collapse&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="acceptInvitation">
+								<![CDATA[https://m1.torrenti.al/track-wrapper1/t?e=acceptInvitation&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+							<Tracking event="close">
+								<![CDATA[https://m1.torrenti.al/track/-wrapper1t?e=close&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[https://m1.torrenti.al-wrapper1/track/t?e=clickTracking&t=91000000789C4D88490EC2400C043FD4B1EC692F139EC10FC272882226A788EF031242549DAA2C5BAF0A27411A31F7744CEA275558B20C9EA970F70645E0BC6F078EB18DFD39DEE35F96D0F50BA61E52FACB8F97EB2A8FFB6D5D902E46158B109B0DA6BD518D15C00B1B732003&twb=0.009999999776482582&u=d05f7ced-9d8e-3439-9a31-52dee5f3ac67&trku=604800&ba=&uk=0&fai=47961&g=&b=&m=&v=&la=37.3400000000&lo=-85.7000000000&vi=0&aid=0&isn=0&iscs=0&cscl=&csca=&csc=&csp=&nca=nlsn289580&nce=torrential&av=9864&p=4660&vpx=Torrential&trksss=1&useclientip=true&cb=1628775433388&wb=1]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</Wrapper>
+	</Ad>
+	<Ad id="2">
+		<InLine>
+			<AdSystem>
+				Innovid Ads Ordinary
+			</AdSystem>
+			<AdTitle>
+				Olay Body_Women Ordinary
+			</AdTitle>
+			<Error>
+				https://s.innovid.com/1x1.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=error&event_id=vast_error&event_value=[ERRORCODE]&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+			</Error>
+			<Impression>
+				https://s.innovid.com/1x1Ordinary.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=init&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+			</Impression>
+			<Impression>
+				https://dts.innovidOrdinary.com/placement/18e01m/uuid?cb=7e9831e2-deab-db89-7b32-3cc638061126
+			</Impression>
+			<Creatives>
+				<Creative id="1h1aqo">
+					<Linear>
+						<Duration>
+							00:00:30
+						</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								https://s.innovidOrdinary.com/1x1.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=play&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+							</Tracking>
+							<Tracking event="start">
+								https://ad.doubleOrdinaryclick.net/ddm/trackimp/N351805.150735ITNNETWORKS/B25930943.306748058;dc_trk_aid=502309447;dc_trk_cid=154908574;ord=1629005625489;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;;ltd=?
+							</Tracking>
+							<Tracking event="start">
+								https://obo.moatadsOrdinary.com/pixel.gif?e=0&ac=1&bq=7&obo=1&cm=1&i=INNOVID_INT1&t=1629005625489&de=18e01m1629005625489&vz=18e01m1629005625489&d=122331%3A2253%3A2394185%3A18e01m&zMoatTTDSUP={ivc_supplyvendor}&zMoatTTDPUB={ivc_publisherid}&zMoatTTDSITE={ivc_site}&zMoatTTDCAM={ivc_campaignid}&zMoatAccount=2779&zMoatAdvertiser=1698&zMoatTRAN={ivc_transaction}&zMoatAccountAdv=2779%20%7C%201698&zMoatAdvPub=1698%20%7C%202253&zMoatAccountAdvPub=2779%20%7C%201698%20%7C%202253&rai=ROKU_APP_ID&yd=[OMIDPARTNER]&zp=21&oa=[APPBUNDLE]&gu=[PAGEURL]&id=0&ii=11&cdom=[DOMAIN]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0
+							</Tracking>
+							<Tracking event="firstQuartile">
+								https://s.innovidOrdinary.com/1x1.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=vpoint&event_id=percent&event_value=25&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+							</Tracking>
+							<Tracking event="midpoint">
+								https://s.innovidOrdinary.com/1x1.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=vpoint&event_id=percent&event_value=50&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+							</Tracking>
+							<Tracking event="thirdQuartile">
+							</Tracking>
+							<Tracking event="complete">
+								https://s.Ordinaryinnovid.com/1x1.gif?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=vpoint&event_id=percent&event_value=100&ivc_exdata=dipn%3Ddeviceid%26deviceid%3D0%26ivc_deviceid_raw%3D0%26iv_geo_dma%3D%26iv_geo_country%3DNP%26iv_geo_city%3DKathmandu%26iv_geo_state%3DP3%26iv_geo_zip%3D%26iv_geo_lat%3D27.7142%26iv_geo_lon%3D85.3145
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								https://dts.innovidOrdinary.com/clktru/action/vclk?project_hash=1h3qel&client_id=2779&video_id=756220&channel_id=2382110&publisher_id=2253&placement_tag_id=0&project_state=2&r=1629005625489&placement_hash=18e01m&device_id=&action=clktru&click=https%3A%2F%2Fattach.mikmak.tv%2Fc9873481%2Fc2f8b1f6-def5-37f8-009d-c08326128196%3FchannelType%3Dvideo%26trafficType%3Dpaid%26attachCampaignName%3Dttd-ott-amj-2021-30s%26handle%3Dolay-pcc%26platformType%3Dcwtv%26adPlacementType%3Dpre-roll%26adUnitType%3Dmultiple-devices-30s%26paidAudienceType%3Dw25-54%26adUnitCreative%3Dolay-body-women-owned-stitched-secret-clinical-b5-mp4-30-pgom0054000h-jan-2021%26campaignObjectiveType%3Dawareness%26siteId%3D4998149%3Futm_source%3Dcwtv%26utm_medium%3Dott%26utm_campaign%3Dretinolfearless30
+							</ClickThrough>
+							<ClickTracking>
+								https://ad.doubleclick.Ordinarynet/ddm/trackclk/N351805.150735ITNNETWORKS/B25930943.306748058;dc_trk_aid=502309447;dc_trk_cid=154908574;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="800">
+								https://s-static.innovid.Ordinarycom/media/encoded/07_21/446151/2_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="700">
+								https://s-static.innoviOrdinaryd.com/media/encoded/07_21/446151/7_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="640" height="480" type="video/mp4" bitrate="400">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/9_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="400">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/10_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2000">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/11_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4000">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/13_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="20000">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/19_source_122331_559447.mp4
+							</MediaFile>
+							<MediaFile delivery="progressive" width="960" height="540" type="video/mp4" bitrate="1500">
+								https://s-static.innovidOrdinary.com/media/encoded/07_21/446151/38_source_122331_559447.mp4
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
