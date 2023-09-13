@@ -6,7 +6,7 @@
 				<![CDATA[Torrential]]>
 			</AdSystem>
 			<VASTAdTagURI>
-				<![CDATA[http://localhost:3000/media-server/place/gf68c1e70-dad4-4481-9e2b-56ba8eef5d42/vast.xml]]>
+				<![CDATA[http://localhost:3001/media-server/place/gf68c1e70-dad4-4481-9e2b-56ba8eef5d42/vast.xml]]>
 			</VASTAdTagURI>
 
 			<Impression id="Impression">
