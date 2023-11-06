@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="1" sequence="1">
+		<InLine>
+			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
+			<AdTitle><![CDATA[ad 2]]></AdTitle>
+			<Impression>
+				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear >
+						<Duration>00:00:33</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=midpoint&adId=1]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=thirdquartile&adId=1]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=complete&adId=1]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=pause]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=mute]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=fullscreen]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=unmute]]></Tracking>
+							<Tracking event="closeLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=closeLinear]]></Tracking>
+							<Tracking event="acceptInvitationLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=acceptInvitationLinear]]></Tracking>
+							<Tracking event="skip"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=skip]]></Tracking>
+							<Tracking event="progress"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=progress]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=exitfullscreen]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://krish.g-mana.et/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=rewind]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=resume]]></Tracking>
+						</TrackingEvents>
+
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1185" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_4lgexdvx/format/url/protocol/https/flavorParamIds/487081/sname/2SecClip.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
